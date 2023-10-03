@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/accessingdatajpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/serving_web_content" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot" vcs="Git" />
+  </component>
+</project>
